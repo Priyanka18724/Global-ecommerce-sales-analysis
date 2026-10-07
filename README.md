@@ -23,3 +23,9 @@ The project use Excel,MySQL,Power BI,and Python to transform raw sales data to m
 - Standing Desk Converter was the top-selling product by sales.
 - Higher discount levels were generally associated with lower profit.
 - Asia Pacific had the highest shipping cost among regions.
+## Project Workflow
+1. Excel – Data preparation and initial analysis
+2. MySQL – SQL-based data analysis
+3. Power BI – Interactive dashboard creation
+4. Python – Data analysis and visualization
+5. Insights – Business findings and recommendations
