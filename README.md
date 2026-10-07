@@ -29,3 +29,9 @@ The project use Excel,MySQL,Power BI,and Python to transform raw sales data to m
 3. Power BI – Interactive dashboard creation
 4. Python – Data analysis and visualization
 5. Insights – Business findings and recommendations
+## Project Files
+- `Global_Ecommerce_Sales_Analysis.xlsx` – Excel analysis and pivot tables
+- `Global_Ecommerce_Sales_Analysis.sql` – MySQL queries and analysis
+- `Global_Ecommerce_Sales_Analysis.pbix` – Power BI dashboard
+- `Global_Ecommerce_Sales_Analysis.ipynb` – Python analysis and visualizations
+- `Global_Ecommerce_Sales_Analysis_Documentation.docx` – Complete project documentation
